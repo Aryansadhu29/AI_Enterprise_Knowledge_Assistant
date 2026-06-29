@@ -1,0 +1,30 @@
+
+COMPLIANCE AND GOVERNANCE GUIDELINES
+
+1. DATA PROTECTION
+All employee data must be encrypted at rest and in transit.
+Personal data should not be shared without explicit consent.
+Regular data audits are conducted quarterly.
+GDPR compliance is mandatory for all European operations.
+
+2. SECURITY REQUIREMENTS
+Passwords must be at least 12 characters with mixed case.
+Two-factor authentication is required for all admin accounts.
+VPN usage is mandatory when accessing company systems remotely.
+All devices must have anti-malware software installed.
+
+3. INCIDENT RESPONSE
+Security incidents must be reported within 24 hours.
+A incident response team will investigate within 48 hours.
+Affected users are notified within 72 hours of a breach.
+
+4. AUDIT REQUIREMENTS
+Annual security audits are mandatory.
+Compliance certifications: ISO 27001, SOC 2 Type II
+Third-party penetration testing is conducted annually.
+
+5. ACCEPTABLE USE POLICY
+Company systems should be used for business purposes only.
+Personal use is limited to break times.
+Downloading unauthorized software is prohibited.
+Violations can result in disciplinary action up to termination.

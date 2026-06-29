@@ -1,0 +1,32 @@
+
+PRODUCT GUIDE - ACME SUITE
+
+Overview:
+ACME Suite is our enterprise software solution designed for businesses.
+
+1. FEATURES
+- Cloud-based storage: 100GB per user
+- Real-time collaboration tools
+- Advanced analytics dashboard
+- API access for integrations
+- 24/7 customer support
+
+2. PRICING
+Basic Plan: $99/month (up to 5 users)
+Professional Plan: $299/month (up to 50 users)
+Enterprise Plan: Custom pricing (unlimited users)
+
+3. IMPLEMENTATION
+Our implementation takes 2-4 weeks depending on complexity.
+We provide free training for the first 50 users.
+Migration from legacy systems is supported.
+
+4. REFUND POLICY
+Refunds are allowed within 30 days of purchase if the service doesn't meet requirements.
+After 30 days, refunds are not available but users can request service credits.
+Setup fees are non-refundable.
+
+5. SUPPORT
+Standard support: Email (24-hour response)
+Premium support: Phone + Email (1-hour response)
+Enterprise support: Dedicated account manager

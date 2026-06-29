@@ -1,0 +1,33 @@
+# Enterprise Knowledge Assistant - FREE Version Requirements
+
+# Core dependencies (same as before)
+numpy>=1.21.0
+faiss-cpu>=1.7.2
+sentence-transformers>=2.2.0
+PyPDF2>=3.0.0
+
+# Web Interface
+streamlit>=1.28.0
+
+# Choose ONE of these FREE LLM options:
+
+# OPTION 1: Groq (RECOMMENDED - Fastest & Easiest)
+groq>=0.4.1
+
+# OPTION 2: Ollama (Local, 100% Free, No Internet)
+# ollama>=0.0.1
+
+# OPTION 3: Hugging Face (Local, Open Source)
+# transformers>=4.30.0
+# torch>=2.0.0
+
+# Utilities
+python-multipart>=0.0.6
+python-dotenv>=1.0.0
+
+# Note: 
+# - All three LLM options are FREE!
+# - For Groq: Just uncomment "groq" above
+# - For Ollama: Uncomment "ollama" and make sure ollama is installed separately
+# - For HuggingFace: Uncomment transformers and torch
+# - You can have multiple options installed and switch via UI
